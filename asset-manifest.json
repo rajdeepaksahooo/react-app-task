@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/rajdeepaksahoo/react-app-task.git/static/css/main.1a5e7d2f.chunk.css",
+    "main.js": "/rajdeepaksahoo/react-app-task.git/static/js/main.868ed873.chunk.js",
+    "main.js.map": "/rajdeepaksahoo/react-app-task.git/static/js/main.868ed873.chunk.js.map",
+    "runtime-main.js": "/rajdeepaksahoo/react-app-task.git/static/js/runtime-main.8a6ef349.js",
+    "runtime-main.js.map": "/rajdeepaksahoo/react-app-task.git/static/js/runtime-main.8a6ef349.js.map",
+    "static/js/2.54b4f4d1.chunk.js": "/rajdeepaksahoo/react-app-task.git/static/js/2.54b4f4d1.chunk.js",
+    "static/js/2.54b4f4d1.chunk.js.map": "/rajdeepaksahoo/react-app-task.git/static/js/2.54b4f4d1.chunk.js.map",
+    "static/js/3.d5c6dd0a.chunk.js": "/rajdeepaksahoo/react-app-task.git/static/js/3.d5c6dd0a.chunk.js",
+    "static/js/3.d5c6dd0a.chunk.js.map": "/rajdeepaksahoo/react-app-task.git/static/js/3.d5c6dd0a.chunk.js.map",
+    "index.html": "/rajdeepaksahoo/react-app-task.git/index.html",
+    "static/css/main.1a5e7d2f.chunk.css.map": "/rajdeepaksahoo/react-app-task.git/static/css/main.1a5e7d2f.chunk.css.map",
+    "static/js/2.54b4f4d1.chunk.js.LICENSE.txt": "/rajdeepaksahoo/react-app-task.git/static/js/2.54b4f4d1.chunk.js.LICENSE.txt",
+    "static/media/Header.module.css": "/rajdeepaksahoo/react-app-task.git/static/media/bg-10.2768f65e.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8a6ef349.js",
+    "static/js/2.54b4f4d1.chunk.js",
+    "static/css/main.1a5e7d2f.chunk.css",
+    "static/js/main.868ed873.chunk.js"
+  ]
+}
